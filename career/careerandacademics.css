@@ -1,0 +1,26 @@
+.year{
+  color: #0000ff; 
+  font-weight: 400; 
+}
+.insitute{
+    font-weight: 490;
+}
+.board{
+    font-weight: 390;
+}
+.percentage{
+    font-weight: 400;
+}
+.heading{
+    height: 70px;
+    padding-left: 45%;
+    padding-top: 10%;
+}
+.answers{
+    padding-top: 10%;
+    padding-left: 12%;
+}
+.answer{
+    font-weight: 400;
+    padding-top: 2%;
+}

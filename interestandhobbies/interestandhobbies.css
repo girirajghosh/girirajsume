@@ -1,0 +1,16 @@
+.nontech{
+    font-weight: 400;
+}
+.question{
+    height: 70px;
+    padding-left: 30%;
+    padding-top: 10%;
+}
+.answers{
+ padding-top: 10%;
+ padding-left: 23%;
+}
+.answer{
+    font-weight: 400;
+    padding-top: 3%;
+}

@@ -1,0 +1,25 @@
+#img{
+	border-image: 20px;
+	height: 250px;
+	width: 250px;
+}
+.image{
+ padding-top: 5%;
+}
+.single-slider{
+    height: 100vh;
+}
+.text-style{
+    color: #fff;
+}
+.heading{
+    padding-top: 7%;
+    padding-left: 32%;
+}
+.contact{
+ background-color: #103f6f;
+ height: 500px;
+}
+.contact-detail{
+    padding-top: 5%;
+}

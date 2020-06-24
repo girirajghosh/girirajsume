@@ -1,0 +1,13 @@
+.heading{
+    height: 70px;
+    padding-left: 40%;
+    padding-top: 7%;
+}
+.answers{
+    padding-top: 10%;
+    padding-left: 12%;
+}
+.answer{
+    font-weight: 400;
+    padding-top: 3%;
+}
